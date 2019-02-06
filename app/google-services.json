@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "207937736311",
+    "firebase_url": "https://crud-24c88.firebaseio.com",
+    "project_id": "crud-24c88",
+    "storage_bucket": "crud-24c88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207937736311:android:bc38b2e1b3033b71",
+        "android_client_info": {
+          "package_name": "com.example.bayuapriyadi.crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207937736311-h0g093bqjf6ld5gpv01ia7v6h1ok2npj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bayuapriyadi.crud",
+            "certificate_hash": "0e45e7b89ab22994c7f46ffcf32b2caa553f16c7"
+          }
+        },
+        {
+          "client_id": "207937736311-ekm5sbpq6i1sco6cd9sbv7i5kqce6ck5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3gE18OrKoklPEcP80CSChav5GrJ3azIQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207937736311-ekm5sbpq6i1sco6cd9sbv7i5kqce6ck5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
